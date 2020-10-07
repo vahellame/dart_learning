@@ -1,8 +1,5 @@
 import 'dart:io';
 
-class DebilException implements Exception {
-}
-
 class TicTacToe {
   var board;
   var turn;
